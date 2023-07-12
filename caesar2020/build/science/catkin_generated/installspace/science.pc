@@ -1,0 +1,8 @@
+prefix=/home/pranav/caesar2020/install
+
+Name: science
+Description: Description of science
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

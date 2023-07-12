@@ -1,0 +1,2 @@
+arm:detection:navigation:rqt_mypkg:science:sensors:traversal
+-DCATKIN_DEVEL_PREFIX=/home/pranav/caesar2020/devel -DCMAKE_INSTALL_PREFIX=/home/pranav/caesar2020/install -G Unix Makefiles
